@@ -14,11 +14,12 @@ This project aims to classify different skin conditions using deep learning tech
 - Images are resized to a uniform size of 180x180 pixels to ensure consistency.
 - ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/07e53e2d-5b89-43c2-9e81-07aeb7c10be4)
 
-
 ## Model Building
 - A Convolutional Neural Network (CNN) architecture is used for image classification. The model consists of convolutional layers followed by max-pooling layers for feature extraction and downsampling.
 - The final layers include fully connected (dense) layers for classification, with the number of units equal to the number of skin condition classes.
 - The model is compiled with the Adam optimizer and Sparse Categorical Crossentropy loss function.
+- ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/4980f7cd-eeae-48c3-90dc-1dfbe2ef8ce4)
+
 
 ## Data Augmentation
 - Data augmentation is performed using TensorFlow's `Sequential` API to generate additional training data by applying random transformations such as flips, rotations, and zooms to the images.
@@ -34,10 +35,7 @@ This project aims to classify different skin conditions using deep learning tech
 
 ## Expected Output
 - The output of the project includes visualizations of training and validation accuracy/loss curves, as well as sample images with predicted skin conditions.
-
 - ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/23b05e23-37cf-4cca-8673-032b0ba5d688)
-
-
 
 ## Conclusion
 - This project demonstrates the application of deep learning techniques for skin condition classification, providing a foundation for further research and development in medical image analysis.
