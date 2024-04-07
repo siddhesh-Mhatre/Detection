@@ -1,4 +1,4 @@
-# Dog Skin Condition Classification using TensorFlow and Keras
+# Dog Skin Diseases Detection and Identification Using Convolutional Neural Networks
 
 ## Introduction
 This project aims to classify different skin conditions using deep learning techniques implemented with TensorFlow and Keras. The dataset used for training consists of images of various skin conditions.
@@ -38,3 +38,6 @@ This project aims to classify different skin conditions using deep learning tech
 
 ## Conclusion
 - This project demonstrates the application of deep learning techniques for skin condition classification, providing a foundation for further research and development in medical image analysis.
+  
+## Research Paper
+- https://link.springer.com/article/10.1007/s42979-022-01645-5#:~:text=In%20our%20research%2C%20we%20implemented,efficiency%20in%20identifying%20skin%20diseases.
