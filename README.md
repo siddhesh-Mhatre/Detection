@@ -30,10 +30,11 @@ This project aims to classify different skin conditions using deep learning tech
 ## Model Evaluation
 - After training, the model's performance is evaluated on the validation dataset to assess its accuracy and generalization capability.
 - The model's predictions on sample images are also visualized using `matplotlib` to demonstrate its classification capability.
+- ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/3c0d93e9-ed7a-45c9-93b7-5b014ded4398)
 
 ## Expected Output
 - The output of the project includes visualizations of training and validation accuracy/loss curves, as well as sample images with predicted skin conditions.
-- ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/3c0d93e9-ed7a-45c9-93b7-5b014ded4398)
+
 - ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/23b05e23-37cf-4cca-8673-032b0ba5d688)
 
 
