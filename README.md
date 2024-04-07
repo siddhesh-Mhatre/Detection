@@ -12,6 +12,8 @@ This project aims to classify different skin conditions using deep learning tech
 - The dataset is stored in the directory `/content/drive/MyDrive/NewSkinData`. It contains images of different skin conditions categorized into subdirectories.
 - The `image_dataset_from_directory` function from TensorFlow's `tf.keras.utils` module is used to create training and validation datasets from the directory structure.
 - Images are resized to a uniform size of 180x180 pixels to ensure consistency.
+- ![image](https://github.com/siddhesh-Mhatre/Detection/assets/80941193/07e53e2d-5b89-43c2-9e81-07aeb7c10be4)
+
 
 ## Model Building
 - A Convolutional Neural Network (CNN) architecture is used for image classification. The model consists of convolutional layers followed by max-pooling layers for feature extraction and downsampling.
